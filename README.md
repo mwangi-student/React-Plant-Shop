@@ -4,6 +4,14 @@
 
 ## cloning of the project.
 
+```
+git clone https: github.com/mwangi-student/React-Plant-Shop
+
+```
+
+cd React-Plant
+
+## Installation of the project dependencies.
 
 1. Run `npm install` in your terminal.
 2. Run `npm run server`. This will run your backend on port `6001`.
@@ -17,9 +25,11 @@ The base URL for your backend is: `http://localhost:6001`
 
 As a user:
 
-1. When the app starts, I can see all plants.
-2. I can add a new plant to the page by submitting the form.
-3. I can mark a plant as "sold out".
-4. I can search for plants by their name and see a filtered list of plants.
+1. When the app starts, all plants are visible.
+2. can add a new plant to the page by submitting the form.
+3. can mark a plant as "sold out".
+4. can search for plants by their name and see a filtered list of plants.
 
+## The site is live at
 
+https://reactplantshop.netlify.app/
